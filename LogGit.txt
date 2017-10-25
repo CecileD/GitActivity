@@ -1,1 +1,30 @@
-Ce fichier devra contenir une copie des log de l'activité
+$ git log
+commit fd9fd958658b732da942a187b52420055dc5a950 (HEAD -> master)
+Author: CecileD <cecile.dagneaux@gmail.com>
+Date:   Wed Oct 25 10:22:19 2017 +0200
+
+    Mise à jour du fichier projet <commandeGit.txt
+
+commit 99efad180e73c55227aed5ecf9991038672667d7 (origin/master, origin/HEAD)
+Author: CecileD <cecile.dagneaux@gmail.com>
+Date:   Wed Oct 25 10:18:21 2017 +0200
+
+    Ajout des fichiers du projet et mise à jour de readme.txt
+
+commit 8be49a56f2258587e70c4d05a44e0abf0e92972d
+Author: CecileD <cecile.dagneaux@gmail.com>
+Date:   Wed Oct 25 10:04:28 2017 +0200
+
+    mise à jour du fichier readme et conversion vers un fichier txt
+
+commit 1f16bc234dbf4ea4853a83e1de6b2dfbaffda0c4
+Author: CecileD <cecile.dagneaux@gmail.com>
+Date:   Wed Oct 25 09:38:43 2017 +0200
+
+    Ajout des deux premières étapes du process
+
+commit 275e9af8e3d22cd09829bb09c98204d5bae83bad
+Author: CecileD <cecile.dagneaux@gmail.com>
+Date:   Wed Oct 25 09:35:43 2017 +0200
+
+    Initial commit
